@@ -41,6 +41,7 @@ Stable identifiers must never change when a lesson moves between categories.
 - [GR-021 — Leave/Let](../lessons/verb-patterns/GR-021-leave-let/README.md)
 - [GR-022 — Get around to](../lessons/verb-patterns/GR-022-get-around/README.md)
 - [GR-023 — Chance](../lessons/verb-patterns/GR-023-chance/README.md)
+- [GR-043 — Prefer / Would prefer](../lessons/verb-patterns/GR-043-prefer-would-prefer/README.md)
 
 ## time-expressions
 
