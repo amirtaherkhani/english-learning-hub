@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-11 — Trainer v3.2 and publishing policy
+
+- Every new or revised Golden Rule is committed and pushed immediately, including catalog and skill updates.
+- Book lessons are pushed only after completion and explicit per-lesson approval.
+- Live practice results remain excluded from GitHub.
+
+
 ## 2026-10-11 — Initial repository
 
 - Created modular English Learning Hub structure.
