@@ -12,3 +12,9 @@ Every new rule MUST include:
 8. A native ChatGPT interactive quiz immediately after teaching, unless declined.
 
 Maintain the catalog without renumbering existing rules. Do not duplicate lessons. Verify ambiguous grammar; distinguish grammatical correctness from idiomatic preference. No copied copyrighted book units.
+
+## Required GitHub synchronization
+
+**Every new or updated Golden Rule must be committed and pushed to GitHub immediately after the lesson is authored or edited**, including related catalog and skill changes. Do not wait for a batch or request extra approval. Confirm the remote commit; if publishing fails, explicitly flag it as unsynced. See [Publishing Policy](../../docs/PUBLISHING_POLICY.md).
+
+Book lessons follow a different rule: **publish only after that individual lesson is complete and explicitly approved by the user**.
