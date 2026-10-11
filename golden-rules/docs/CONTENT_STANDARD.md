@@ -9,7 +9,7 @@ Every new rule MUST include:
 5. Contrast with neighboring forms and meanings; include exceptions and common traps.
 6. Positive, negative, interrogative, and relevant tense variations, when meaningful.
 7. Concise five-second recap and a link to related lessons.
-8. A native ChatGPT interactive quiz immediately after teaching, unless declined.
+8. Practice immediately after teaching, unless declined: a native interactive quiz when supported, or a text quiz in Codex and other text-only interfaces.
 
 Maintain the catalog without renumbering existing rules. Do not duplicate lessons. Verify ambiguous grammar; distinguish grammatical correctness from idiomatic preference. No copied copyrighted book units.
 
