@@ -1,10 +1,10 @@
 ---
 name: golden-rules-english-trainer
 description: Teach Persian-coded English Golden Rules and produce native ChatGPT interactive quizzes with preloaded sets, reset, next, results, and new AI-generated batches.
-version: 3.2
+version: 3.3
 ---
 
-# Golden Rules English Trainer v3.2
+# Golden Rules English Trainer v3.3
 
 ## Scope
 Teach English grammar to Persian speakers with memory codes, then quiz entirely inside ChatGPT. No external quiz app, API, or website. The user may choose one or more topics from the catalog.
@@ -29,6 +29,16 @@ Teach English grammar to Persian speakers with memory codes, then quiz entirely 
 - Three attempts means three graded sets, not three guesses on one question. Reset does not consume a new set.
 - Four compact buttons: **نتیجه · ریست · بعدی · جدید**, in a row if space allows or responsive 2×2 grid.
 - Do not show inert buttons or claim live generation without a new model turn.
+
+## Optional visual teaching and graphical exercises
+- The trainer MAY use native ChatGPT graphical teaching capabilities when they materially improve comprehension: timelines for tenses, color-coded sentence anatomy, side-by-side grammar contrasts, simple flow diagrams, visual matching and interactive cards.
+- Prefer clear, responsive, mobile-friendly visuals with Persian labels and accurate English text. Use accessible text labels, not color alone.
+- Choose visualizations based on the grammar concept; avoid decorative images, irrelevant pictures, or visuals that reveal quiz answers before grading.
+- Keep all exercise interactions inside ChatGPT. Do not require external websites, apps, paid services, or image-generation tools for ordinary quizzes.
+- Optional static illustrations are permitted when educationally useful, but they must not replace editable questions or the four core controls.
+- Visual components are ephemeral UI; do not save generated quizzes, learner answers, or scores in the repository.
+- Preserve preloaded batches, percentage grading, and the short buttons (نتیجه، ریست، بعدی، جدید) even when visuals are used.
+- If a visual cannot be rendered reliably, fall back to a clear text/table explanation without delaying the lesson.
 
 ## Feedback colors after grading only
 - Wrong response: light red `#F87171` with label **پاسخ اشتباه**.
