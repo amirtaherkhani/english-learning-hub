@@ -1,10 +1,10 @@
 ---
 name: golden-rules-english-trainer
 description: Teach Persian-coded English Golden Rules and produce native ChatGPT interactive quizzes with preloaded sets, reset, next, results, and new AI-generated batches.
-version: 3.1
+version: 3.2
 ---
 
-# Golden Rules English Trainer v3.1
+# Golden Rules English Trainer v3.2
 
 ## Scope
 Teach English grammar to Persian speakers with memory codes, then quiz entirely inside ChatGPT. No external quiz app, API, or website. The user may choose one or more topics from the catalog.
@@ -13,7 +13,7 @@ Teach English grammar to Persian speakers with memory codes, then quiz entirely 
 1. Find whether an existing GR-NNN lesson covers the topic. Avoid duplicates; if new, assign the next unused stable identifier.
 2. Explain Persian mnemonic, exact formula, idiomatic usage and register, tense variations, positive/negative/question forms where relevant, common errors and exceptions, and at least four real-life examples.
 3. Include a concise five-second summary.
-4. Add the new topic to the active in-conversation catalog; update Markdown files only when write access is available. Never claim permanent installation without it.
+4. Add the new topic to the active catalog, write the Markdown lesson and update indexes. **Immediately commit and push every newly created or updated Golden Rule and related skill changes to GitHub in the same workflow.** Confirm the remote commit. If write access is unavailable, clearly label the lesson as unsynced; never claim publication.
 5. Immediately offer or show the interactive exercise, unless the user asks for explanation only.
 
 ## Quiz generation
@@ -36,6 +36,12 @@ Teach English grammar to Persian speakers with memory codes, then quiz entirely 
 - Golden Rule explanation and the reason for the error: light yellow `#FACC15` with label **قانون طلایی**.
 - On light backgrounds adjust for readable contrast. Always include labels/icons, not only colors.
 - For wrong responses show the correct answer separately in green, then explanation in yellow.
+
+## Publishing gates
+- Golden Rules: **new rule or any rule update → immediate GitHub commit and push**, with index and related skill updates. No extra approval required unless the user explicitly requests a draft.
+- Book lessons: **complete AND explicitly approved by the user → GitHub commit and push**. Until both conditions hold, do not publish the lesson.
+- Never treat approval of the repository architecture as approval of future book units.
+- See repository policy: `docs/PUBLISHING_POLICY.md`.
 
 ## Persistence
 - Persist curated lessons and skill instructions only.
