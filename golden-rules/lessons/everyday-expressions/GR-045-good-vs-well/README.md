@@ -1,110 +1,182 @@
-# GR-045 — GOOD یا WELL؟ «خوب» دربارهٔ چیز یا چگونگیِ کار؟
+# GR-045 — GOOD یا WELL؟ «خوب» ویژگی است یا چگونگی انجام کار؟
 
-- **Category:** everyday-expressions
-- **Level:** A2–B1
+- **English title:** Good vs Well
+- **Catalog category:** everyday-expressions
+- **Grammar category:** adjective / adverb / linking-verb complement
+- **Core level:** A1–A2
+- **Optional extension:** B1
+- **Difficulty:** Normal
+- **هدف:** تشخیص بدهیم چه وقت از **good** برای ویژگی یا حالت، و چه وقت از **well** برای چگونگی انجام کار یا سلامت استفاده کنیم.
 
-## قانون طلایی و کدگذاری فارسی
+## قانون اصلی
 
-> **«چه‌کسی/چه‌چیزی خوب است؟» → GOOD. «کار را چطور انجام می‌دهد؟» → WELL. «حال جسمی‌اش خوب است؟» → WELL هم می‌تواند صفت باشد.**
+**Good** معمولاً صفت است: اسم یا فاعل را توصیف می‌کند.
 
-این کد راهنماست، نه قانون بدون استثنا. **Good** معمولاً **صفت** است و ویژگیِ شخص، چیز یا نتیجه را می‌گوید؛ **well** معمولاً **قید** است و کیفیتِ انجام کار را می‌گوید. اما **well** بعد از فعل‌هایی مانند **be، feel و look** می‌تواند **صفتِ «سالم/سرحال»** باشد. در گفت‌وگوی آمریکایی **I feel good** هم کاملاً رایج است و می‌تواند دربارهٔ حال عمومی یا روحیه باشد.
+- `a good teacher` — معلم خوب
+- `The food tastes good.` — غذا خوش‌مزه است.
 
-| پرسش فارسی | ساختار | مثال |
+**Well** معمولاً قید است: می‌گوید یک کار چطور انجام می‌شود.
+
+- `She teaches well.` — او خوب درس می‌دهد.
+- `The team works well.` — گروه خوب کار می‌کند.
+
+اما **well** یک استثنای مهم دارد: بعد از فعل‌هایی مثل **be، feel، look، get** می‌تواند صفت و به معنی «سالم/حالش خوب» باشد.
+
+- `I don't feel well.` — حالم خوب نیست.
+- `He is well again.` — او دوباره سالم است.
+
+پس این کد راهنماست، نه قانون بی‌استثنا: **ویژگی یا حالتِ شخص/چیز → good؛ چگونگیِ انجام کار → well؛ سلامت بعد از فعل ربطی → well هم ممکن است.**
+
+## کدگذاری فارسی
+
+| نشانهٔ فارسی | ساختار رایج | Example | معنی |
+|---|---|---|---|
+| «معلم/ایده/غذای خوب» | **good + noun** | `That's a good idea.` | این فکر خوبی است. |
+| «این غذا خوش‌مزه است»؛ توصیف خودِ فاعل | **linking verb + good** | `The soup tastes good.` | سوپ خوش‌مزه است. |
+| «او خوب رانندگی می‌کند»؛ چطور رانندگی می‌کند؟ | **action verb + well** | `She drives well.` | او خوب رانندگی می‌کند. |
+| «از نظر جسمی حالش خوب است» | **be/feel/look/get + well** | `I feel well today.` | امروز از نظر جسمی حالم خوب است. |
+
+کد فارسی کمک می‌کند معنی را تشخیص بدهی؛ جای بررسی فعل و بافت را نمی‌گیرد.
+
+## GOOD: صفت برای شخص، چیز یا حالت
+
+### 1. پیش از اسم
+
+فرمول: **good + noun**
+
+- `He's a good driver.` — او رانندهٔ خوبی است.
+- `We had a good meeting.` — جلسهٔ خوبی داشتیم.
+- `This is a good book.` — این کتاب خوبی است.
+
+### 2. بعد از فعل ربطی
+
+فرمول: **subject + linking verb + good**
+
+فعل ربطی فاعل را به یک ویژگی یا حالت وصل می‌کند. در این کاربرد، **good** خودِ فاعل را توصیف می‌کند:
+
+- `The plan is good.` — برنامه خوب است.
+- `Your idea sounds good.` — ایده‌ات خوب به نظر می‌رسد.
+- `The coffee smells good.` — قهوه بوی خوبی می‌دهد.
+- `The food tastes good.` — غذا خوش‌طعم است.
+- `You look good.` — ظاهر خوبی داری.
+
+اینجا نمی‌گوییم عملِ «شنیدن/بوکردن/چشیدن» چطور انجام می‌شود؛ دربارهٔ ویژگیِ فاعل حرف می‌زنیم. بنابراین در معنی «غذا خوش‌مزه است» می‌گوییم `The food tastes good.`
+
+### 3. ترکیب‌های پرکاربرد
+
+- **be good at + noun / V-ing:** مهارت داشتن در چیزی یا انجام کاری
+  - `Mina is good at math.` — مینا در ریاضی خوب است.
+  - `I'm good at explaining ideas.` — در توضیح ایده‌ها مهارت دارم.
+  - بعد از **at** اگر فعل بیاید، **V-ing** می‌آید: `good at writing`، نه `good at write`.
+- **be good with + person / thing:** در کار یا ارتباط با کسی/چیزی خوب بودن
+  - `He's good with children.` — او با بچه‌ها خوب کنار می‌آید.
+- **be good for + someone / something:** مفید بودن برای کسی/چیزی
+  - `Walking is good for your health.` — پیاده‌روی برای سلامت مفید است.
+
+## WELL: قید برای چگونگی انجام کار
+
+فرمول رایج: **subject + action verb + well**. اگر مفعول هم باشد، **well** معمولاً پس از مفعول می‌آید.
+
+- `She sings well.` — او خوب آواز می‌خواند.
+- `He speaks English well.` — او انگلیسی را خوب صحبت می‌کند.
+- `I didn't sleep well last night.` — دیشب خوب نخوابیدم.
+- `You did well on the test.` — در آزمون خوب عمل کردی.
+- `The new app works well.` — برنامهٔ جدید خوب کار می‌کند.
+
+برای انگلیسی معیار، وقتی می‌خواهی بگویی کاری چطور انجام می‌شود، از **well** استفاده کن؛ **good** را به جای قیدِ معمول نگذار:
+
+❌ `She speaks English good.`
+
+✅ `She speaks English well.`
+
+در گفتار غیررسمی ممکن است **good** را به شکل قیدی بشنوی، اما در نوشتار معیار، آزمون، و انگلیسی آموزشی، **well** انتخاب مطمئن است.
+
+## استثنای مهم: WELL برای سلامت
+
+**Well** بعد از فعل ربطی می‌تواند صفت باشد و معمولاً معنی «سالم/مریض نبودن» بدهد:
+
+- `Are you well?` — حالت خوب است؟ / سالمی؟
+- `I'm not feeling well.` — حالم خوب نیست.
+- `She looks well after her holiday.` — بعد از تعطیلات سالم و سرحال به نظر می‌رسد.
+- `I hope you get well soon.` — امیدوارم زود خوب شوی.
+
+**I feel good** هم جملهٔ درست و رایجی است. معمولاً از حس مثبت یا حال خوب حرف می‌زند و به‌ویژه در انگلیسی آمریکایی می‌تواند دربارهٔ سلامت هم به کار برود. برای اینکه روشن بگویی «از نظر جسمی حالم خوب است»، **I feel well** دقیق‌تر است؛ **I don't feel well** عبارت بسیار رایجی برای ناخوشی است. در انگلیسی بریتانیایی، استفاده از **well** برای معنی سلامت معمول‌تر است.
+
+بنابراین **I feel good** را خودبه‌خود غلط علامت نزن. بافت و نوع انگلیسی مهم است.
+
+## مقایسه‌های کوتاه
+
+| جمله | چه چیزی را توصیف می‌کند؟ | معنی |
 |---|---|---|
-| چه‌چیزی خوب است؟ | **good + noun** | **a good idea** — فکر خوبی |
-| این شخص/چیز چطور است؟ | **subject + linking verb + good** | **The food tastes good.** — غذا خوش‌مزه است. |
-| کاری چطور انجام می‌شود؟ | **subject + action verb + well** | **She cooks well.** — او خوب آشپزی می‌کند. |
-| حال جسمی چطور است؟ | **subject + be/feel/look + well** | **I don't feel well.** — حالم خوب نیست. |
+| `She's a good singer.` | ویژگی/مهارتِ شخص؛ **good** صفتِ اسم است. | او خوانندهٔ خوبی است. |
+| `She sings well.` | چگونگیِ آوازخواندن؛ **well** قید است. | او خوب آواز می‌خواند. |
+| `The soup tastes good.` | مزهٔ سوپ؛ **good** بعد از فعل ربطی آمده است. | سوپ خوش‌مزه است. |
+| `The chef cooks well.` | چگونگیِ آشپزی‌کردن؛ **well** قید است. | آشپز خوب آشپزی می‌کند. |
+| `I feel well.` | سلامت جسمی؛ **well** صفت است. | از نظر جسمی حالم خوب است. |
+| `I feel good about the result.` | حس مثبت نسبت به نتیجه؛ **good** صفت است. | نسبت به نتیجه حس خوبی دارم. |
 
-## GOOD: ویژگیِ شخص، چیز یا نتیجه
+## شکل مثبت، منفی، سؤال و زمان
 
-**Good** پیش از اسم یا پس از فعل ربطی می‌آید:
+**Good** و **well** برای زمان صرف نمی‌شوند؛ فعل جمله تغییر می‌کند. شکل درست را با فاعل و زمان بساز:
 
-- **good + noun:** **She's a good teacher.** — او معلم خوبی است.
-- **subject + be + good:** **The plan is good.** — طرح خوب است.
-- **subject + look/sound/smell/taste/feel + good:** **Your idea sounds good.** — ایده‌ات خوب به نظر می‌رسد. **This soup smells good.** — این سوپ بوی خوبی دارد.
-- **be good at + noun/V-ing:** **I'm good at explaining ideas.** — در توضیح ایده‌ها خوبم. بعد از **at**، اگر فعل بیاید شکل **V-ing** می‌گیرد: **good at writing**، نه **good at write**.
-- **be good with + people/things:** **She's good with children.** — با بچه‌ها خوب کنار می‌آید.
-- **be good for + someone/something:** **Walking is good for your health.** — پیاده‌روی برای سلامتت مفید است.
-
-در این مثال‌ها فعل‌هایی مثل **look، sound، smell، taste و feel** ویژگیِ **فاعل** را توصیف می‌کنند؛ قرار نیست بگویند عملِ نگاه‌کردن یا چشیدن «خوب انجام شده است». برای همین **The soup tastes good** درست است؛ **The soup tastes well** برای معنی «سوپ خوش‌مزه است» درست نیست.
-
-## WELL: کیفیتِ انجام کار
-
-**Well** به‌عنوان قید معمولاً فعلِ کاری را توصیف می‌کند:
-
-- **subject + action verb + well:** **He writes well.** — او خوب می‌نویسد.
-- **subject + action verb + object + well:** **She speaks English well.** — او انگلیسی را خوب صحبت می‌کند.
-- **do/perform/work/play + well:** **You did well on the test.** — در آزمون خوب عمل کردی. **The new app works well.** — برنامهٔ جدید خوب کار می‌کند.
-- **well + past participle (V3):** **a well-written report** — گزارشی که خوب نوشته شده؛ **well done!** — آفرین، خوب انجام دادی.
-
-مقایسهٔ کلیدی: **She's a good singer** یعنی «خوانندهٔ خوبی است»؛ **She sings well** یعنی «خوب می‌خواند». در انگلیسی معیار، برای توصیف شیوهٔ انجام فعل، **She sings good** را به جای **She sings well** به کار نبر.
-
-## استثنای مهم: WELL برای سلامتی
-
-وقتی **well** بعد از **be، feel، look، get** دربارهٔ **سلامت** شخص می‌آید، **صفت** است، نه قید:
-
-| عبارت | معنی معمول |
-|---|---|
-| **I'm well. / I'm feeling well.** | از نظر جسمی خوبم/حالم خوب است. |
-| **I'm not feeling well.** | حالم خوب نیست؛ احتمالاً مریضم. |
-| **You look well.** | سرحال و سالم به نظر می‌رسی. |
-| **I feel good.** | حالم خوب است؛ می‌تواند به روحیه، احساس یا سلامت عمومی اشاره کند. |
-| **You look good.** | ظاهر خوبی داری؛ بسته به بافت می‌تواند برداشت کلیِ مثبتی هم باشد. |
-
-**I feel good** را به‌طور مطلق «غلط» ندان؛ مخصوصاً در انگلیسی آمریکایی طبیعی است. برای بیان روشنِ **حال جسمی**، **I feel well** یا **I don't feel well** انتخاب دقیق‌تری است. **I feel badly** معمولاً جایگزین طبیعیِ **I feel bad** برای «حس بدی دارم» نیست؛ چون **feel** اینجا فعل ربطی است و صفت می‌خواهد.
-
-## جمله‌های پرکاربرد در زندگی و کار
-
-1. **That's a good question.** — سؤال خوبی است.
-2. **You did a good job.** — کار خوبی انجام دادی.
-3. **You did well in the interview.** — در مصاحبه خوب عمل کردی.
-4. **She is good at her job.** — در کارش ماهر است.
-5. **She does her job well.** — کارش را خوب انجام می‌دهد.
-6. **This coffee tastes good.** — این قهوه خوش‌طعم است.
-7. **The presentation went well.** — ارائه خوب پیش رفت.
-8. **The presentation was good.** — ارائه خوب بود.
-9. **I'm not feeling well today.** — امروز حالم خوب نیست.
-10. **I feel good about the decision.** — نسبت به تصمیم حس خوبی دارم.
-11. **He speaks English well.** — او انگلیسی را خوب صحبت می‌کند.
-12. **He's good at speaking English.** — او در صحبت‌کردن به انگلیسی مهارت دارد.
-
-## جملهٔ مثبت، منفی، سؤالی و زمان‌ها
-
-**Good** و **well** خودشان با زمان تغییر شکل نمی‌دهند؛ **فعل جمله** تغییر می‌کند:
-
-| منظور | GOOD: ویژگی/کیفیت | WELL: چگونگیِ کار |
+| زمان/حالت | ویژگی با GOOD | چگونگی کار با WELL |
 |---|---|---|
-| حال | **The service is good.** — خدمات خوب است. | **The team works well.** — تیم خوب کار می‌کند. |
-| منفی حال | **The service isn't good.** — خدمات خوب نیست. | **The team doesn't work well.** — تیم خوب کار نمی‌کند. |
-| سؤال حال | **Is the service good?** — خدمات خوب است؟ | **Does the team work well?** — تیم خوب کار می‌کند؟ |
-| گذشته | **The service was good.** — خدمات خوب بود. | **The team worked well.** — تیم خوب کار کرد. |
-| حال کامل | **The service has been good.** — خدمات تا حالا خوب بوده است. | **The team has worked well.** — تیم تا حالا خوب کار کرده است. |
-| آینده | **The service will be good.** — خدمات خوب خواهد بود. | **The team will work well.** — تیم خوب کار خواهد کرد. |
+| حال مثبت | `The service is good.` — خدمات خوب است. | `The team works well.` — گروه خوب کار می‌کند. |
+| حال منفی | `The service isn't good.` — خدمات خوب نیست. | `The team doesn't work well.` — گروه خوب کار نمی‌کند. |
+| سؤال حال | `Is the service good?` — خدمات خوب است؟ | `Does the team work well?` — گروه خوب کار می‌کند؟ |
+| گذشته | `The service was good.` — خدمات خوب بود. | `The team worked well.` — گروه خوب کار کرد. |
+| حال کامل | `The service has been good.` — خدمات تا حالا خوب بوده است. | `The team has worked well.` — گروه تا حالا خوب کار کرده است. |
+| آینده | `The service will be good.` — خدمات خوب خواهد بود. | `The team will work well.` — گروه خوب کار خواهد کرد. |
 
-## تفاوت‌های ظریف و دام‌ها
+در سؤال و منفیِ حال ساده، **does/doesn't + V1** را به کار ببر: `Does she work well?`، نه `Does she works well?`
 
-| انتخاب درست | چرا؟ |
-|---|---|
-| **a good player** / **plays well** | اولی دربارهٔ بازیکن است؛ دومی دربارهٔ شیوهٔ بازی‌کردن. |
-| **good at math** / **does well in math** | اولی مهارت را می‌گوید؛ دومی عملکرد در درس را. |
-| **The plan looks good.** / **She looks well.** | طرح امیدبخش/خوب به نظر می‌رسد؛ او سالم به نظر می‌رسد. |
-| **do well** / **do good** | **do well** یعنی خوب عمل‌کردن یا موفق‌شدن؛ **do good** در معنیِ «کار خیر کردن/فایده رساندن» کاربرد مستقل دارد. **The charity does a lot of good.** — آن مؤسسه فایدهٔ زیادی می‌رساند. |
-| **good** و **well** → **better / best** | **a better idea** = ایدهٔ بهتر؛ **works better** = بهتر کار می‌کند. جایگاه واژه معنی را روشن می‌کند. |
+## مقایسهٔ بیشتر: BETTER و BEST
 
-**Well, ...** در آغاز صحبت می‌تواند کلمهٔ مکث یا آغاز پاسخ باشد («خب، ...») و **as well** یعنی «همچنین/هم»؛ این‌ها همان کاربردِ «خوب انجام‌دادن» نیستند. برای **as well** به [GR-030](../../prepositions/GR-030-also/README.md) مراجعه کن.
+**Good** و **well** هر دو در مقایسه می‌توانند به شکل **better / best** درآیند. نقش کلمه را از جایگاهش تشخیص بده:
 
-## مرور پنج‌ثانیه‌ای
+- `This is a better idea.` — این ایدهٔ بهتری است. (**better** صفتِ **idea** است.)
+- `She works better in the morning.` — او صبح‌ها بهتر کار می‌کند. (**better** چگونگی کارکردن را می‌گوید.)
+- `This is the best answer.` — این بهترین پاسخ است.
+- `He performed best under pressure.` — او زیر فشار بهترین عملکرد را داشت.
 
-> **اسم یا فاعل خوب است؟ GOOD: a good teacher / The food tastes good. کاری خوب انجام می‌شود؟ WELL: She teaches well. حال جسمی؟ WELL هم صفت می‌شود: I don't feel well.**
+## اشتباه‌های رایج
+
+| اشتباه | شکل درست | دلیل |
+|---|---|---|
+| `He is a well player.` | `He is a good player.` | پیش از اسمِ بازیکن، صفتِ **good** لازم است؛ **well** برای سلامت به کار می‌رود، نه مهارتِ اسم. |
+| `She drives good.` | `She drives well.` | **well** چگونگیِ انجام فعل **drives** را توصیف می‌کند. |
+| `The plan seems well.` | `The plan seems good.` | اینجا **seems** فعل ربطی است و **good** ویژگیِ plan را بیان می‌کند. |
+| `I'm good at write emails.` | `I'm good at writing emails.` | بعد از حرف اضافهٔ **at**، فعل به شکل **V-ing** می‌آید. |
+| `I feel good` (با این تصور که همیشه غلط است) | جمله می‌تواند درست باشد؛ برای سلامتِ روشن بگو `I feel well.` | **good** دربارهٔ حس مثبت هم هست و در آمریکایی برای سلامت هم رایج است؛ **well** انتخاب روشن‌تری برای سلامت است. |
+
+## نکته‌های تکمیلی B1
+
+این بخش را به‌عنوان نکتهٔ تکمیلی بخوان؛ برای قانون پایه لازم نیست.
+
+- **do well** یعنی خوب عمل‌کردن یا موفق‌شدن: `She did well in the interview.` — او در مصاحبه خوب عمل کرد.
+- **do good** معمولاً به معنی کار خیر کردن یا فایده رساندن است، نه قیدِ «خوب انجام دادن»: `The program does a lot of good.` — این برنامه فایدهٔ زیادی دارد.
+- **Well, ...** در آغاز پاسخ می‌تواند نشانهٔ مکث یا شروع حرف باشد («خب، ...»). **As well** یعنی «هم/همچنین». این دو کاربرد، همان قیدِ «خوب انجام دادن» نیستند؛ برای معنی «همچنین» درس [GR-030 — ALSO / TOO / AS WELL](../../prepositions/GR-030-also/README.md) را ببین.
+
+## قانون پنج‌ثانیه‌ای
+
+```text
+۱) تشخیص بده کلمه چه چیزی را توصیف می‌کند.
+۲) اسم یا ویژگیِ فاعل؟ → GOOD
+۳) چگونگیِ انجام کار؟ → WELL
+۴) سلامت بعد از be/feel/look/get؟ → WELL هم صفت می‌شود؛ بافت را بررسی کن.
+```
+
+> **شخص/چیز خوب است → GOOD. کار چطور انجام می‌شود → WELL. سلامت → WELL؛ اما I feel good هم در بافت مناسب درست است.**
+
+در گفت‌وگوی زنده، پس از توضیح، یک Guided check کوتاه و انگلیسی ارائه می‌شود و تا پاسخ زبان‌آموز، پاسخ‌نامه نمایش داده نمی‌شود. سؤال‌ها، کلید، تلاش‌ها و نمره‌ها در مخزن ذخیره نمی‌شوند.
 
 ## درس‌های مرتبط و منابع
 
 - [GR-004 — BE](../../tenses/GR-004-be/README.md)
 - [GR-030 — ALSO / TOO / AS WELL](../../prepositions/GR-030-also/README.md)
-- [Cambridge Grammar: Good or well?](https://dictionary.cambridge.org/grammar/british-grammar/good-or-well)
+- [Cambridge Grammar: Part of speech: good or well?](https://dictionary.cambridge.org/grammar/british-grammar/good-or-well)
 - [Cambridge Grammar: Well](https://dictionary.cambridge.org/grammar/british-grammar/well)
-- [Cambridge Grammar: Linking verbs](https://dictionary.cambridge.org/grammar/british-grammar/auxiliary-verbs)
+- [Cambridge Dictionary: Well](https://dictionary.cambridge.org/dictionary/english/well)
 - [Oxford Learner's Dictionaries: well as an adjective](https://www.oxfordlearnersdictionaries.com/definition/english/well_2)
 
-تمرین این قانون در چت ساخته می‌شود؛ سؤال‌ها، پاسخ‌ها و نمره‌ها در مخزن ذخیره نمی‌شوند.
+تمرین‌ها در گفت‌وگوی زنده ساخته می‌شوند؛ مجموعهٔ تمرین، پاسخ‌نامه، پاسخ‌های زبان‌آموز و نمره در مخزن ذخیره نمی‌شوند.
