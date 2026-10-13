@@ -1,20 +1,7 @@
-# Interactive UI contract (v3.1)
+# Native quiz control boundary (v4)
 
-## Controls
+Use interactive quiz controls only when the current ChatGPT/Codex interface actually exposes them and their behavior is verified. Never infer support from a skill document or promise GenUI, buttons, hidden state, or instant navigation that the current interface does not provide.
 
-| Button | Behavior | Availability |
-|---|---|---|
-| نتیجه | Lock answers; grade; reveal feedback and percent | All questions answered, not yet graded |
-| ریست | Clear current answers and score, preserve exact questions | Always |
-| بعدی | Show next pre-generated set instantly | Graded and not last set |
-| جدید | Request fresh 3–5 sets using GenUI.issueNewTurn | Last set graded |
+When verified controls are available, their behavior must match `references/text_quiz.md`: answer keys remain hidden until grading, Reset preserves the exact current set and clears grading, and New Set creates new questions with the selected settings. Keep all exercise text in English, make feedback accessible without color alone, and do not persist learner answers, scores, or progress.
 
-- Default: 3 pre-generated sets, 5 questions per set, level A2–B1.
-- Use client state for answers, current set, grading state and score history.
-- Generate all current sets in the same response. No external requests for Next.
-- The New button is a **new chat turn**, not an in-place background AI call.
-- Grading: `Math.round(100 * correct / total)`.
-- Hide feedback until Results.
-- After grading, wrong label in **light red** `#F87171`, correct answer in **green** `#22C55E`, golden rule in **light yellow** `#FACC15`; adjust for light themes.
-- Four short buttons in a compact row or 2x2 grid. Show progress and percentage.
-- Reset must not change the question batch or accidentally unlock New before the final set.
+When controls are unavailable or uncertain, use the text-only flow in `references/text_quiz.md`.
