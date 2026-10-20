@@ -67,4 +67,6 @@ Stable identifiers must never change when a lesson moves between categories.
 - [GR-037 — Avoid](../lessons/everyday-expressions/GR-037-avoid/README.md)
 - [GR-044 — Me too / Me neither / Me either](../lessons/everyday-expressions/GR-044-me-too-me-neither-me-either/README.md)
 - [GR-045 — Good vs Well](../lessons/everyday-expressions/GR-045-good-vs-well/README.md)
+- [GR-046 — Spoken Discourse Markers](../lessons/everyday-expressions/GR-046-conversation-markers/README.md)
+- [GR-047 — I mean and alternatives](../lessons/everyday-expressions/GR-047-i-mean-alternatives/README.md)
 
