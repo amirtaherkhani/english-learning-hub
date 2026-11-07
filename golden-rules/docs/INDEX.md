@@ -49,6 +49,17 @@ Stable identifiers must never change when a lesson moves between categories.
 - [GR-025 — Now/Yet/Still](../lessons/time-expressions/GR-025-time-words/README.md)
 - [GR-026 — Since then](../lessons/time-expressions/GR-026-since/README.md)
 
+## adverbs
+
+- [GR-048 — Actually](../lessons/adverbs/GR-048-actually/README.md)
+- [GR-049 — Really](../lessons/adverbs/GR-049-really/README.md)
+- [GR-050 — Probably](../lessons/adverbs/GR-050-probably/README.md)
+- [GR-051 — Definitely](../lessons/adverbs/GR-051-definitely/README.md)
+- [GR-052 — Basically](../lessons/adverbs/GR-052-basically/README.md)
+- [GR-053 — Literally](../lessons/adverbs/GR-053-literally/README.md)
+- [GR-054 — Obviously](../lessons/adverbs/GR-054-obviously/README.md)
+- [GR-055 — Hopefully](../lessons/adverbs/GR-055-hopefully/README.md)
+
 ## prepositions
 
 - [GR-027 — To me/For me](../lessons/prepositions/GR-027-to-for/README.md)
